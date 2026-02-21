@@ -4,9 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("╔════════════════════════════════════════════════════════════╗");
         Console.WriteLine("║   TechNova Retail Solutions - Inventory Management System  ║");
-        Console.WriteLine("╚════════════════════════════════════════════════════════════╝\n");
 
         var inventory = new InventoryManager();
 
